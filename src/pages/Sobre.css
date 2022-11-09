@@ -1,0 +1,13 @@
+.sobre-img {
+  width: 100%;
+}
+
+.sobre {
+  height: 85vh;
+  text-align: left;
+  color: black;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}

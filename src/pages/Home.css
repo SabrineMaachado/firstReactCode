@@ -1,0 +1,23 @@
+h1 {
+  font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+.home {
+  height: 85vh;
+  text-align: left;
+  color: black;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  
+}
+
+.home-img {
+  width: 100%;
+  
+}

@@ -1,0 +1,31 @@
+.container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 50px;
+	margin-bottom: 90px;
+}
+
+.table-title {
+	text-align: center;
+}
+
+.contacts {
+	max-width: 800px;
+}
+
+.contacts th {
+	padding: 24px;
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+.contact-logo {
+	width: 50px;
+	height: 50px;
+}
